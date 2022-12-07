@@ -5,11 +5,11 @@
 <div id="header" align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhzNlKZvt7mTKa24jKagRQ2dJVlntvT0aVAg&usqp=CAU" width="200"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/allen-pham/" target="_blank">
+  <a href="https://www.linkedin.com/in/dongfang-song-25261218a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     
-  <a href="https://angel.co/u/allen-pham-2" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
   </a>
   </div>
