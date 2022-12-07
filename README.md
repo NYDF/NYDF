@@ -17,16 +17,17 @@
 
 ### About Me : 
 - 🧑🏽‍💻 I’m growing as a Software Engineer and proud to have created these fullstack applications:
+
    <div id='projects' align="center">
             <div id='SongBnB' align="center">
               <a href="https://airbnb-aa.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/105566877/206288141-e8f09796-5e4b-47c5-8c16-adb85ad44eef.png" width="400"/></a> <div>SongBnB: A Full-Stack <a href="https://www.airbnb.com/" target="_blank">AirBnB</a> Clone</div>
    </div>
-<!--    <br> -->
+   <br>
    <div id='projects' align="center">
             <div id='Eriscord' align="center">
               <a href="https://aa-eriscord.onrender.com/" target="_blank"><img src="https://github.com/EriscordAppacademyProject/Eriscord/raw/cici/readme.png/home-page-1%20(Custom).png" width="400"/></a> <div>Eriscord: A Full-Stack <a href="https://discord.com/" target="_blank">Discord</a> Clone</div>
       </div>
-<!--    <br> -->
+   <br>
    <div id='projects' align="center">
             <div id='RobinWhod' align="center">
               <a href="https://aa-robinwhod.onrender.com/" target="_blank"><img src="https://user-images.githubusercontent.com/105566877/205074091-acc76364-5d53-4118-af22-17c13ca09f14.png" width="400"/></a> <div>RobinWhod: A Full-Stack <a href="https://robinhood.com/" target="_blank">Robinhood</a> Clone</div>
