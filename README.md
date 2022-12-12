@@ -17,6 +17,7 @@
 
 ### About Me : 
 - 🧑🏽‍💻 I’m growing as a Software Engineer and proud to have created these fullstack applications:
+- 🧑 Link to my porfolios: https://nydf.github.io/
 
    <div id='projects' align="center">
             <div id='SongBnB' align="center">
