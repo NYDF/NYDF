@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 - 😄 I attained Master degree in Business Administration (MBA) in 2011. 
 - ⚡ In the past 7 years, before I decide to coding, I have been concentrating in the field of real estate financing.
-- 🔭 I’m currently working on Goolge Map Api for my SongBnB project 
+- 🔭 I am currently working on finalizing two projects: airbnb clone and Robinhood clone. Lots of fun! 
 - 🌱 I’m currently learning Ruby
 
 
