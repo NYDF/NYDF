@@ -15,7 +15,10 @@
   </div>
 </div>
 
+<br></br>
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nydf&show_icons=true&theme=merko)
+</div>
 
 ### About Me : 
 - 🧑🏽‍💻 I’m growing as a Software Engineer and proud to have created these fullstack applications:
