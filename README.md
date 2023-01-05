@@ -16,7 +16,7 @@
 </div>
 
 <br></br>
-<div align="center">
+<div id="header" align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nydf&show_icons=true&theme=merko)
 </div>
 
