@@ -15,10 +15,10 @@
   </div>
 </div>
 
-<br></br>
+<!-- <br></br>
 <div id="header" align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nydf&show_icons=true&theme=merko)
-</div>
+</div> -->
 
 ### About Me : 
 - 🧑🏽‍💻 I’m growing as a Software Engineer and proud to have created these fullstack applications:
@@ -39,12 +39,7 @@
               <a href="https://aa-robinwhod.onrender.com/" target="_blank"><img src="https://user-images.githubusercontent.com/105566877/205074091-acc76364-5d53-4118-af22-17c13ca09f14.png" width="400"/></a> <div>RobinWhod: A Full-Stack <a href="https://robinhood.com/" target="_blank">Robinhood</a> Clone</div>
       </div>
    </div>
-<!--
-**NYDF/NYDF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
--->
 
 - 😄 I attained Master degree in Business Administration (MBA) in 2011. 
 - ⚡ In the past 7 years, before I decide to coding, I have been concentrating in the field of real estate financing.
