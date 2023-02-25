@@ -23,11 +23,10 @@
 ### About Me : 
 - 🧑🏽‍💻 I’m growing as a Software Engineer and proud to have created these fullstack applications:
 - 🧑 Link to my porfolios: https://nydf.github.io/
-![songbnb main](https://user-images.githubusercontent.com/105566877/221384939-5a861f03-b12e-4f65-abff-0191fe4c01bc.png)
 
    <div id='projects' align="center">
             <div id='SongBnB' align="center">
-              <a href="https://airbnb-aa.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/105566877/206288141-e8f09796-5e4b-47c5-8c16-adb85ad44eef.png" width="400"/></a> <div>SongBnB: A Full-Stack <a href="https://www.airbnb.com/" target="_blank">AirBnB</a> Clone</div>
+              <a href="https://airbnb-aa.herokuapp.com/" target="_blank"><img src="[https://user-images.githubusercontent.com/105566877/206288141-e8f09796-5e4b-47c5-8c16-adb85ad44eef.png](https://user-images.githubusercontent.com/105566877/221384939-5a861f03-b12e-4f65-abff-0191fe4c01bc.png)" width="400"/></a> <div>SongBnB: A Full-Stack <a href="https://www.airbnb.com/" target="_blank">AirBnB</a> Clone</div>
    </div>
    <br>
    <div id='projects' align="center">
