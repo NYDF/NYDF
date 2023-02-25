@@ -23,6 +23,7 @@
 ### About Me : 
 - 🧑🏽‍💻 I’m growing as a Software Engineer and proud to have created these fullstack applications:
 - 🧑 Link to my porfolios: https://nydf.github.io/
+![songbnb main](https://user-images.githubusercontent.com/105566877/221384997-9a54aaa5-5c32-4c88-a85c-d32d3d2d18b9.png)
 
    <div id='projects' align="center">
             <div id='SongBnB' align="center">
@@ -31,7 +32,7 @@
    <br>
    <div id='projects' align="center">
             <div id='Eriscord' align="center">
-              <a href="https://aa-eriscord.onrender.com/" target="_blank"><img src="https://github.com/EriscordAppacademyProject/Eriscord/raw/cici/readme.png/home-page-1%20(Custom).png" width="400"/></a> <div>Eriscord: A Full-Stack <a href="https://discord.com/" target="_blank">Discord</a> Clone</div>
+              <a href="https://aa-eriscord.onrender.com/" target="_blank"><img src="https://user-images.githubusercontent.com/105566877/221384997-9a54aaa5-5c32-4c88-a85c-d32d3d2d18b9.png" target="_blank">Discord</a> Clone</div>
       </div>
    <br>
    <div id='projects' align="center">
