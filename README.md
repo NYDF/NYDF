@@ -27,12 +27,12 @@
 
    <div id='projects' align="center">
             <div id='SongBnB' align="center">
-              <a href="https://airbnb-aa.herokuapp.com/" target="_blank"><img src="[https://user-images.githubusercontent.com/105566877/206288141-e8f09796-5e4b-47c5-8c16-adb85ad44eef.png](https://user-images.githubusercontent.com/105566877/221384939-5a861f03-b12e-4f65-abff-0191fe4c01bc.png)" width="400"/></a> <div>SongBnB: A Full-Stack <a href="https://www.airbnb.com/" target="_blank">AirBnB</a> Clone</div>
+              <a href="https://airbnb-aa.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/105566877/206288141-e8f09796-5e4b-47c5-8c16-adb85ad44eef.png" width="400"/></a> <div>SongBnB: A Full-Stack <a href="https://www.airbnb.com/" target="_blank">AirBnB</a> Clone</div>
    </div>
    <br>
    <div id='projects' align="center">
             <div id='Eriscord' align="center">
-              <a href="https://aa-eriscord.onrender.com/" target="_blank"><img src="https://user-images.githubusercontent.com/105566877/221384997-9a54aaa5-5c32-4c88-a85c-d32d3d2d18b9.png" target="_blank">Discord</a> Clone</div>
+              <a href="https://aa-eriscord.onrender.com/" target="_blank"><img src="https://github.com/EriscordAppacademyProject/Eriscord/raw/cici/readme.png/home-page-1%20(Custom).png" width="400"/></a> <div>Eriscord: A Full-Stack <a href="https://discord.com/" target="_blank">Discord</a> Clone</div>
       </div>
    <br>
    <div id='projects' align="center">
