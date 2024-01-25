@@ -46,4 +46,4 @@
 - 🔭 I am currently working on finalizing two projects: airbnb clone and Robinhood clone. Lots of fun! 
 - 🌱 I’m currently learning Ruby
 
--
+--
